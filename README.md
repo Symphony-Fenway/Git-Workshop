@@ -13,3 +13,4 @@ Mac OS makes it really easy to install git. Simply run git from the Terminal wit
 
 Attendees:
 - Duk
+- DCHen
