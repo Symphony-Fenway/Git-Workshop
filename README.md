@@ -1,7 +1,7 @@
 # Git-Workshop
 1/21/18 Introductory workshop to git
 
-Hi everyone! This will be the first of hopefully many workshops we will have together :^)
+Hi everyone! This will be the first of hopefully many workshops we will have together :^^^^)
 
 ## Installing on Windows
 Download [Git for Windows](http://git-scm.com/download/win)
